@@ -1,6 +1,7 @@
 # Mapping Earthquakes Report
-Mapping Earthquakes with JS, GeoJSON  &amp; APIs; 
+
 ## Background
+The purpose of this exersize is to use earthquake data in relation to the tectonic plates’ location on the earth utilizing Mapping Earthquakes with JS, Leaflet.js, GeoJSON  &amp; APIs.
 
 ## Deliverable 1: Add Tectonic Plate Data
 
@@ -8,8 +9,22 @@ Mapping Earthquakes with JS, GeoJSON  &amp; APIs;
 
 ## Deliverable 2: Add Major Earthquake Data
 
+### Major Earthquake Data
 ![Major_Earthquakes.PNG](/Major_Earthquakes.PNG)
 
-## Deliverable 3: Add an Additional Map
-
+### All Earthquake Data
 ![All_Earthquakes.PNG](/All_Earthquakes.PNG)
+
+## Deliverable 3: Add an Additional Map Style [Final Map]
+
+### Streets View
+
+![Street_View.PNG](/Street_View.PNG)
+
+### Satelite View
+
+![Street_View.PNG](/Satelite_View.PNG)
+
+### Dark View
+
+![Dark_View.PNG](/Dark_View.PNG)
